@@ -1,12 +1,12 @@
-da27ef7b2b7d912b60c407c67412dace *DESCRIPTION
-6627cac73aef6558e71630085fe88aa5 *NAMESPACE
-05c4b8ab62ae19632bacd2bde6eac597 *NEWS.md
+87007acb753ed29dd811673436ccf974 *DESCRIPTION
+0e7376978119923fd72d04d968ece909 *NAMESPACE
+d04f55f385799f21501e198d86f84745 *NEWS.md
 5544dcb6f35f0add930e4f2ce3d1f156 *R/data.R
-424378b8d74d0c0c28ddec8cf6ee407b *R/dependability.R
-890398d2ddbfcab827860a3a55f88670 *R/item_desc.R
+339e99ae3531bbb2ea863a742201eaa9 *R/dependability.R
+fedd67a6fbc6613201988daab879846b *R/item_desc.R
 ddf28c5d1b343834d3b6b2745950d32f *R/sysdata.rda
 e1e1c46cc392f84c7d4e0ae64bc722ad *README.md
-ed2eb7f5d439f732d013ad9a93590d91 *build/vignette.rds
+b4776985b0a6fef0bb0af3ae8e010345 *build/vignette.rds
 79016a91c483655595c3b401998cf8fc *data/bh_depend.rda
 1c9a9d17f8947a9610e5b0d7adabf335 *data/bh_gstudy.rda
 d4383659f3a0c48d90bdca53c87634a5 *data/bh_item.rda
@@ -15,7 +15,7 @@ afb9cf9fb7c53980f935e7a8b8cf005b *data/sub_kappa_coef.rda
 ed9affaacb19c83e6e70af759a21abab *inst/CITATION
 31ac16e6ae16399ec5129cd3d3e9a5d9 *inst/doc/rcrtan-vignette.R
 70e4b5f33badb5d82e80d67d1e366cbe *inst/doc/rcrtan-vignette.Rmd
-001ec37f74af556da949d0f265e5cee0 *inst/doc/rcrtan-vignette.html
+f19f2795b357888c80a18b69e06ec473 *inst/doc/rcrtan-vignette.html
 059a41acb9c439716a27b56e7d3e6732 *man/agree_stat.Rd
 da853d59202a2a979df3b50ca35b062a *man/b_index.Rd
 0d224367b460c3f04379af231e5e2b01 *man/bh_depend.Rd
